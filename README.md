@@ -1,4 +1,4 @@
-# Alpine image custom
+# Alpine custom docker image
 
 ## Supported tags and respective `Dockerfile` links
 
