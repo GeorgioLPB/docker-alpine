@@ -1,4 +1,4 @@
-# BIND container
+# Alpine image custom
 
 ## Supported tags and respective `Dockerfile` links
 
