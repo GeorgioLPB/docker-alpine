@@ -1,4 +1,4 @@
-FROM arm32v7/alpine:3.11.6
+FROM arm32v7/alpine:3.12.0
 #
 # https://hub.docker.com/_/alpine
 # https://github.com/just-containers/s6-overlay/releases
@@ -6,9 +6,9 @@ FROM arm32v7/alpine:3.11.6
 LABEL maintainer georges.gregorio@gmail.com
 
 ENV \
-	s6_release='1.22.1.0' \
+	s6_release='2.0.0.1' \
 	s6_arch='armhf' \
-	s6_sha256='93f4e0fb57f18f42c4f45dabc13f068f9bfc3bed37031d31322c341aa7de7330' \
+	s6_sha256='96318279d61e0c00037be91a05a41de5a80442d955dad0284c18768a22707cdb' \
 	s6_url="https://github.com/just-containers/s6-overlay/releases/download"
 
 RUN set -eux; \

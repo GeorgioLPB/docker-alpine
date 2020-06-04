@@ -4,7 +4,7 @@
 
 | Tags         | Alpine   | s6-overlay |
 |:-------------|:---------|:-----------|
-| `latest`     | `3.11.6` | `2.0.0.1` |
+| `latest`     | `3.12.0` | `2.0.0.1` |
 
 * [latest, (latest/Dockerfile)](https://github.com/GeorgioLPB/docker-alpine/blob/master/Dockerfile.amd64)
 
