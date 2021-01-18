@@ -1,4 +1,4 @@
-FROM alpine:3.12.3
+FROM alpine:3.13.0
 #
 # https://hub.docker.com/_/alpine
 # https://github.com/just-containers/s6-overlay/releases
